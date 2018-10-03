@@ -14,3 +14,4 @@ function mergeNArrays() {
 }
 
 console.log(mergeNArrays([ 1, 3, 4, 5 ], [ 2, 4, 6, 8 ]));
+
