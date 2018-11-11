@@ -1,15 +1,4 @@
 function sameFrequency(num1, num2){
-  // stringify numbers, and if numbers aren't equal in length, return false
-  // Create two separate empty objects
-  // Iterate through first number string
-    // store frequency of each number
-  // Iterate through second number string
-    // If current exists in object
-      // subtract 1 from the object
-    // If current value is less than 0
-      // return false
-  // return true
-
   const string1 = num1.toString();
   const string2 = num2.toString();
   
